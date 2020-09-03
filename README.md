@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Zantiki/Zantiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Sebastian Ikin</h1>
 
-Here are some ideas to get you started:
+### _About_:
+Student at NTNU and Software Engineering Intern at Arm.
+- Currently learning: 
+  - C++
+  - ML with pytorch
+  - Network and Software Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### _In progress projects:_
+- Spooky Horror Game in Unity
+- AI Paper Trader using pytorch and Alpaca-api
+- Fancy Portfolio Website using React and Google Cloud
+- Bachelors Degree in Computer Science
+
+#
+[LinkedIn](linkedin.com/in/sebastianakin) | [sebastianikin.com](sebastianikin.com) | [email](sebastianaikin@gmail.com)
