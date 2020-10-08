@@ -2,7 +2,7 @@
 <h1 align="center">Sebastian Ikin</h1>
 
 ### _About_:
-Student at NTNU and Software Engineering Intern at Arm.
+Student at NTNU and Software Engineering Intern (and 2021 Graduate) at Arm.
 - Currently learning: 
   - C++
   - ML with pytorch
