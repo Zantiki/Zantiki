@@ -3,10 +3,7 @@
 
 ### _About_:
 Student at NTNU and Software Engineering Intern (and 2021 Graduate) at Arm.
-- Currently learning: 
-  - C++
-  - ML with pytorch
-  - Network and Software Security
+Currently writing a Bachelor Thesis about Software Security.
 
 ### _In progress projects:_
 - Spooky Horror Game in Unity
